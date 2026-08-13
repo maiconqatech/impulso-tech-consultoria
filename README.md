@@ -43,9 +43,9 @@ no ar.
 
 ## Pendências
 
-- [ ] Gerar `og-image.png` para preview em redes sociais e WhatsApp
-- [ ] Validar prazo de entrega real para incluir (ou não) na FAQ
-- [ ] Revisar se "suporte pós-entrega" deve virar diferencial explícito
+- [ ] Revisar se "suporte pós-entrega" deve virar diferencial explícito na
+      página (hoje o diferencial em destaque é só o Convito como produto
+      próprio)
 
 ## Contato
 
