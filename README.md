@@ -41,11 +41,11 @@ Repositório separado do [impulsoTech](https://github.com/maiconqatech/impulsoTe
 (que hospeda a LandPageConvito) para não sobrescrever a página do Convito já
 no ar.
 
-## Pendências
+## Decisões de negócio
 
-- [ ] Revisar se "suporte pós-entrega" deve virar diferencial explícito na
-      página (hoje o diferencial em destaque é só o Convito como produto
-      próprio)
+- Suporte/manutenção pós-entrega é **pago à parte**, não incluído no valor
+  do projeto — por isso não entra como diferencial em destaque na página,
+  só como resposta honesta na FAQ.
 
 ## Contato
 
