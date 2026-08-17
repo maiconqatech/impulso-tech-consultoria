@@ -1,12 +1,12 @@
-# Impulso Tech — landing page da consultoria
+# Contech — landing page da consultoria
 
-Landing page de serviço da **Impulso Tech**: vende a consultoria de software
+Landing page de serviço da **Contech**: vende a consultoria de software
 sob medida (site institucional, landing page e SaaS) pra pequenos negócios e
 comércio local. Usa o [Convito](https://convito-nine.vercel.app/) — produto
-próprio da Impulso Tech, já usado em 50+ festas — como case de prova social.
+próprio da Contech, já usado em 50+ festas — como case de prova social.
 
 Não confundir com a [LandPageConvito](../LandPageConvito): aquela vende o
-Convito como produto; esta vende a Impulso Tech como consultoria.
+Convito como produto; esta vende a Contech como consultoria.
 
 ## Stack
 
@@ -35,9 +35,9 @@ HTML estático, publica em qualquer hospedagem sem configuração:
 
 ## Publicado em
 
-https://maiconqatech.github.io/impulso-tech-consultoria/
+https://maiconqatech.github.io/contech-consultoria/
 
-Repositório separado do [impulsoTech](https://github.com/maiconqatech/impulsoTech)
+Repositório separado do [contech](https://github.com/maiconqatech/contech)
 (que hospeda a LandPageConvito) para não sobrescrever a página do Convito já
 no ar.
 

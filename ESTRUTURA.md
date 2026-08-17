@@ -1,13 +1,13 @@
-# Impulso Tech — Landing Page da Consultoria
+# Contech — Landing Page da Consultoria
 
 Landing page de serviço (não de produto): vende a **consultoria de software sob
-medida** da Impulso Tech — criação de **sites, landing pages e SaaS**. CTA final
+medida** da Contech — criação de **sites, landing pages e SaaS**. CTA final
 aponta para contato/orçamento via WhatsApp, seguindo o padrão da
 [LandPageConvito](../LandPageConvito).
 
 ## O que já sei (reaproveitado do projeto Convito)
 
-- Marca: **Impulso Tech** — posicionamento "software sob medida"
+- Marca: **Contech** — posicionamento "software sob medida"
 - Prova de execução: **Convito**, produto próprio já usado em 50+ festas
   (+100 eventos elogiados) — funciona como case/portfólio
 - Contato: WhatsApp [(15) 99734-1422](https://wa.me/5515997341422)
@@ -40,7 +40,7 @@ abaixo)*
 
 ## Seções planejadas
 
-1. **Header** — logo Impulso Tech + CTA "Falar no WhatsApp"
+1. **Header** — logo Contech + CTA "Falar no WhatsApp"
 2. **Hero** — headline, subheadline, CTA primário + secundário ("Ver o
    Convito" como prova), selo "+100 eventos elogiados no Convito"
 3. **Prova social** — case Convito em destaque (o que era o problema, o que
@@ -59,7 +59,7 @@ abaixo)*
 ## Decisões confirmadas (13/08)
 
 1. **Diferencial real**: dono de produto próprio — o Convito prova que a
-   Impulso Tech entende o que é manter um sistema no ar, não só entregar e
+   Contech entende o que é manter um sistema no ar, não só entregar e
    sumir.
 2. **Modelo de contratação**: landing page com preço fechado, **a partir de
    R$399 + hospedagem**; site institucional e SaaS ficam **sob consulta**.
